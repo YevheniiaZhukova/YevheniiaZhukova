@@ -12,3 +12,4 @@
 1. 📊 **[Revenue Performance Tracker](https://github.com/YevheniiaZhu/revenue-performance-tracker)** — SaaS subscription metrics & Churn analysis.
 2. 🛒 **[E-Commerce Sales Analysis](https://github.com/YevheniiaZhu/ecommerce-sales-analysis)** — Global transaction data & RFM segmentation.
 3. 💻 **[Developer Survey EDA](https://github.com/YevheniiaZhu/developer-survey-eda)** — Python exploratory data analysis on global dev trends.
+4. 🧪 **[Mobile Paywall A/B Testing](https://github.com/YevheniiaZhu/A-B-test)** – Psychological discount framing & conversion rate optimization.
