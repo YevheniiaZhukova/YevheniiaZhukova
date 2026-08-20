@@ -9,6 +9,6 @@
 ---
 
 ### 📂 Featured Analytics Projects
-1. 📊 **[Revenue Performance Tracker](revenue-performance-tracker)** — SaaS subscription metrics & Churn analysis.
+1. 📊 **[Revenue Performance Tracker](https://github.com/YevheniiaZhu/revenue-performance-tracker)** — SaaS subscription metrics & Churn analysis.
 2. 🛒 **[E-Commerce Sales Analysis](https://github.com/.../ecommerce-analysis)** — Global transaction data & RFM segmentation.
 3. 💻 **[Developer Survey EDA](https://github.com/.../developer-survey)** — Python exploratory data analysis on global dev trends.
